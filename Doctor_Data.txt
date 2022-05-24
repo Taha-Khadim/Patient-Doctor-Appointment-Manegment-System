@@ -1,0 +1,52 @@
+                                 _____________________________________            _____________________________________
+                              1 |Doctor Name : Muhammad Amjad Bhatti  |	      11 |Doctor Name : Shumaila Asghar        |
+                                |Speciality : Genral Physician        |		 |Speciality : Gynecologist            |
+                                |Experiance : 11 years                |		 |Experiance : 18 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              2 |Doctor Name : Saima Saeed            |	      12 |Doctor Name : Hanif Jan              |
+                                |Speciality : Genral Physician        |		 |Speciality : ENT                     |
+                                |Experiance : 15 years                |		 |Experiance : 37 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              3 |Doctor Name : Maria Mehmood          |	      13 |Doctor Name : Saleem Sheikh          |
+                                |Speciality : Genral Sergeon          |		 |Speciality : Cardiologist            |
+                                |Experiance : 05 years                |		 |Experiance : 40 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              4 |Doctor Name : Amir Riaz Bhutta	      |       14 |Doctor Name : Naveed Baloch          |
+                                |Speciality : Genral Sergeon          |		 |Speciality : Dermatologist           |
+                                |Experiance : 13 years                |		 |Experiance : 25 years                |
+                                |Timing : 9:00-12:00 pm               | 	 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              5 |Doctor Name : Mehmood-Ul-Haq Farooqi |       15 |Doctor Name : Irfan Ahmad            |
+                                |Speciality : Genral Sergeon          |		 |Speciality : Urologist               |
+                                |Experiance : 11 years                |		 |Experiance : 33 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              6 |Doctor Name : Adeel Khalil           |	      16 |Doctor Name : Nadeem Akhtar          |
+                                |Speciality : Dermatologist           |		 |Speciality : Psychiatrist            |
+                                |Experiance : 17 years                |		 |Experiance : 25 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              7 |Doctor Name : Amrita Rizwan          |	      17 |Doctor Name : Muhammad Abbas         |
+                                |Speciality : Nephrologist            |		 |Speciality : Pediatrician            |
+                                |Experiance : 07 years                |		 |Experiance : 30 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              8 |Doctor Name : Usman Iqbal            |	      18 |Doctor Name : Muhammad Kalim         |
+                                |Speciality : Dentist                 |		 |Speciality : Neurologist             |
+                                |Experiance : 22 years                |		 |Experiance : 16 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                              9 |Doctor Name : Raja GulFraz Akbar     |	      19 |Doctor Name : Mehmood Shah           |
+                                |Speciality : Pediatrician            |		 |Speciality : Dentist                 |
+                                |Experiance : 14 years                |		 |Experiance : 27 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+                             10 |Doctor Name : Khwaja Amjad Hassan    |	      20 |Doctor Name : Omer Afzal             |
+                                |Speciality : Pediatrician            |		 |Speciality : Plastic Surgeon         |
+                                |Experiance : 08 years                |		 |Experiance : 09 years                |
+                                |Timing : 9:00-12:00 pm               |		 |Timing : 9:00-12:00 pm               |
+                                |_____________________________________|		 |_____________________________________|
+									
