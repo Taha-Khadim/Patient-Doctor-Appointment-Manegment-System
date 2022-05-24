@@ -1,8 +1,5 @@
-/* SEMESTER PROJECT
 ___________________________________________________________________
-This is my semester project that is Hospital Doctor Patient Appointment manegment system.
-___________________________________________________________________
-Written by M Taha Khadim (2020mc70@student.uet.edu.pk) on 23-DEC-2021
+Written by M Taha Khadim (tahakhadim@gmail.com) on 23-DEC-2021
 IDE: Visual Studio Code 1.60.0
 C Compiler: GCC{Rev.5,Builtby MSYS2 Project}*/
 //--------------------------------------------------------------------------------------------------------------------------------------------------
